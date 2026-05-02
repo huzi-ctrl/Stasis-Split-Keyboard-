@@ -1,0 +1,48 @@
+### Footprint positions - created on 2026-05-02T13:48:46+0100 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val           Package                                     PosX       PosY       Rot  Side
+D43       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   102.0000  -197.3000    0.0000  bottom
+D44       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   301.5000  -197.3000    0.0000  bottom
+D45       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   121.0000  -159.3000    0.0000  bottom
+D46       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   282.5000  -159.3000    0.0000  bottom
+D47       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   140.0000  -149.8000    0.0000  bottom
+D48       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   159.0000  -159.3000    0.0000  bottom
+D49       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   263.5000  -149.8000    0.0000  bottom
+D50       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   244.5000  -159.3000    0.0000  bottom
+D51       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   178.0000  -178.3000    0.0000  bottom
+D52       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   178.0000  -159.3000    0.0000  bottom
+D53       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   159.0000  -140.3000    0.0000  bottom
+D54       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   140.0000  -130.8000    0.0000  bottom
+D55       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   225.5000  -178.3000    0.0000  bottom
+D56       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   225.5000  -159.3000    0.0000  bottom
+D57       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   244.5000  -140.3000    0.0000  bottom
+D58       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   263.5000  -130.8000    0.0000  bottom
+D59       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   121.0000  -140.3000    0.0000  bottom
+D60       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   121.0000  -121.3000    0.0000  bottom
+D61       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   140.0000  -111.8000    0.0000  bottom
+D62       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   159.0000  -121.3000    0.0000  bottom
+D63       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   178.0000  -140.3000    0.0000  bottom
+D64       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   178.0000  -121.3000    0.0000  bottom
+D65       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   159.0000  -102.3000    0.0000  bottom
+D66       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   140.0000   -92.8000    0.0000  bottom
+D67       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   282.5000  -140.3000    0.0000  bottom
+D68       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   282.5000  -121.3000    0.0000  bottom
+D69       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   263.5000  -111.8000    0.0000  bottom
+D70       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   244.5000  -121.3000    0.0000  bottom
+D71       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   225.5000  -140.3000    0.0000  bottom
+D72       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   225.5000  -121.3000    0.0000  bottom
+D73       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   244.5000  -102.3000    0.0000  bottom
+D74       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   263.5000   -92.8000    0.0000  bottom
+D75       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   121.0000  -102.3000    0.0000  bottom
+D77       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   121.0000   -83.3000    0.0000  bottom
+D79       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   140.0000   -73.8000    0.0000  bottom
+D81       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   159.0000   -83.3000    0.0000  bottom
+D83       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   178.0000  -102.3000    0.0000  bottom
+D91       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   282.5000  -102.3000    0.0000  bottom
+D93       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   282.5000   -83.3000    0.0000  bottom
+D95       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   263.5000   -73.8000    0.0000  bottom
+D97       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   244.5000   -83.3000    0.0000  bottom
+D99       SK6812MINI-E  led_SK6812mini-e_(per-keysingle-side)   225.5000  -102.3000    0.0000  bottom
+## End
